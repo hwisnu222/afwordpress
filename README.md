@@ -3,8 +3,8 @@ Afwordpress
 
 
 install requests
-    pip install request
+pip install request
 
 
 run: 
-    python afwordpress.py https://example wordlist.txt
+python afwordpress.py https://example wordlist.txt
